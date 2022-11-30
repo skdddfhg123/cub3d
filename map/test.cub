@@ -1,0 +1,18 @@
+NO ./texture/green.xpm
+SO ./texture/red.xpm
+WE ./texture/grey.xpm
+EA ./texture/brown.xpm
+
+F 180,180,225
+C 37,253,233
+
+11111
+10001
+ 
+100W1
+11001
+11001
+11111
+
+
+
